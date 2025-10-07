@@ -26,15 +26,6 @@
 | Buzzer +| GPIO 22  | blue             |
 | Buzzer –| GND      | black            |
 
-## 🚀 Next steps (copy / paste)
-```cpp
-void setup() {
-  pinMode(TOUCH_PIN, INPUT);
-  pinMode(BUZZER_PIN, OUTPUT);
-  Serial.begin(115200);
-}
-
-void loop() {
   bool touched = digitalRead(TOUCH_PIN);
   digitalWrite(BUZZER_PIN, touched ? HIGH : LOW);
   Serial.println(touched ? "Touched" : "Clear");
