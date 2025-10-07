@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Code-20_Lines-00ff00?style=for-the-badge)
 
-[![Live Serial Plot](https://img.shields.io/badge/Serial-Monitor-Live-ff6600?style=flat-square&logo=serial)]()
+[![Live Serial Plot](https://img.shields.io/badge/Serial-Monitor-Live-ff6600?style=flat-square&logo=serial)](/)
 
 &gt; Click badge for wiring gif & real-time demo video.
 
